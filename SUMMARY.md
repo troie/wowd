@@ -12,4 +12,3 @@
     * [我們歡迎讀者回饋](part2/feedback_please.md)
     ** [對作者更好的工具](part2/better_tools.md)
     ** [對作者更好的工具](part2/better_tools.md)
-    ** [對作者更好的工具](part2/better_tools.md)
