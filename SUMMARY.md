@@ -5,8 +5,6 @@
 * [第三章](chapter3.md)
 
 
-# Summary
-
 * [第一部](part1/README.md)
     * [寫作是美好的](part1/writing.md)
     * [GitBook 也不錯](part1/gitbook.md)
