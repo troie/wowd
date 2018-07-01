@@ -39,60 +39,60 @@ To help you dive into the world of creative computing as quickly as possible, we
     >Offer opportunities for learners to review and rethink their creative practices.
 
 ##WHO IS THIS GUIDE FOR?
-    No matter your current context or prior experience, this guide was designed with a wide range of learners and educators in mind. Here are a few examples of who might use the guide and how they might use it:
+    >No matter your current context or prior experience, this guide was designed with a wide range of learners and educators in mind. Here are a few examples of who might use the guide and how they might use it:
 
-    K-12 TEACHER
-    Scratch is being used in thousands of elementary, middle-school, and high-school classrooms around the world. The guide can be used in its entirety as a semester-long computing course, or selectively as part of other curricular areas. Many educators introduce creative computing as an after-school or lunch-time program, using the activities as inspiration and scaffolding for students’ open-ended explorations.
+    >###K-12 TEACHER
+    >Scratch is being used in thousands of elementary, middle-school, and high-school classrooms around the world. The guide can be used in its entirety as a semester-long computing course, or selectively as part of other curricular areas. Many educators introduce creative computing as an after-school or lunch-time program, using the activities as inspiration and scaffolding for students’ open-ended explorations.
 
-    MUSEUM OR LIBRARY EDUCATOR
-    In addition to formal learning environments like classrooms, Scratch has been used in informal learning spaces like museums and libraries. Whether as a structured workshop experience or a drop-in play space, these learning environments are ideal for supporting explorations in creative computing, without some of the restrictions present in traditional settings.
+    >###MUSEUM OR LIBRARY EDUCATOR
+    >In addition to formal learning environments like classrooms, Scratch has been used in informal learning spaces like museums and libraries. Whether as a structured workshop experience or a drop-in play space, these learning environments are ideal for supporting explorations in creative computing, without some of the restrictions present in traditional settings.
 
-    PARENT
-    Parents can use the guide in a wide range of ways. From supporting homeschooling activities, to starting creative computing clubs at school, to hosting workshops at local community centers, parents are encouraged to think about how to use the guide to support the creative computing experiences of young learners.
+    >###PARENT
+    >Parents can use the guide in a wide range of ways. From supporting homeschooling activities, to starting creative computing clubs at school, to hosting workshops at local community centers, parents are encouraged to think about how to use the guide to support the creative computing experiences of young learners.
 
-    COLLEGE INSTRUCTOR
-    Scratch can serve as an introduction to fundamental computational concepts and practices, often followed by a transition to more traditional text-based programming languages in computer science courses. For example, the CS50 course at Harvard University uses Scratch as an introductory programming experience before transitioning to the C programming language. The activities have also been used as part of education, art, and media literacy courses at the college level.
+    >###COLLEGE INSTRUCTOR
+    >Scratch can serve as an introduction to fundamental computational concepts and practices, often followed by a transition to more traditional text-based programming languages in computer science courses. For example, the CS50 course at Harvard University uses Scratch as an introductory programming experience before transitioning to the C programming language. The activities have also been used as part of education, art, and media literacy courses at the college level.
     
-    YOUNG LEARNER
-    Over the past seven years since Scratch’s launch, young learners have been passionate advocates for creative computing in a variety of settings. From introducing their parents and teachers to programming, to creating learning opportunities for their peers, creative computing can be something that is done with them or by them, rather than just for them.
+    >###YOUNG LEARNER
+    >Over the past seven years since Scratch’s launch, young learners have been passionate advocates for creative computing in a variety of settings. From introducing their parents and teachers to programming, to creating learning opportunities for their peers, creative computing can be something that is done with them or by them, rather than just for them.
     
 ##WHAT DO I NEED IN ORDER TO USE THIS GUIDE?
-    n addition to time and an openness to adventure, some important resources include:
-    + Computers with speakers (and, optionally, microphones and webcams): for the computer-based design activities
-    + Network connection: for connecting to Scratch online (if your environment does not offer a network connection, a downloadable version of Scratch is available)
-    + Projector or interactive whiteboard with speakers: for sharing works-in-progress and for demonstrations
-    + Design notebooks (physical or digital): for documenting, sketching, and brainstorming ideas and plans
+    >In addition to time and an openness to adventure, some important resources include:
+    >+ Computers with speakers (and, optionally, microphones and webcams): for the computer-based design activities
+    >+ Network connection: for connecting to Scratch online (if your environment does not offer a network connection, a downloadable version of Scratch is available)
+    >+ Projector or interactive whiteboard with speakers: for sharing works-in-progress and for demonstrations
+    >+ Design notebooks (physical or digital): for documenting, sketching, and brainstorming ideas and plans
 
 ##WHAT IS INCLUDED IN THIS GUIDE?
-    This guide is organized in seven units – from an initial preparatory unit to a culminating projectbased unit – with each unit typically including six activities. A summary of each unit follows:
+    >This guide is organized in seven units – from an initial preparatory unit to a culminating projectbased unit – with each unit typically including six activities. A summary of each unit follows:
     
-    UNIT 0 – GETTING STARTED
-    Prepare for the culture of creative computing by exploring possibilities and setting up technical infrastructure (e.g., creating Scratch accounts, starting design journals) and social infrastructure (e.g., establishing critique groups). Dive into an initial creative experience by making UNIT 0 – GETTING STARTED something “surprising” happen to a Scratch character.
+    >###UNIT 0 – GETTING STARTED
+    >Prepare for the culture of creative computing by exploring possibilities and setting up technical infrastructure (e.g., creating Scratch accounts, starting design journals) and social infrastructure (e.g., establishing critique groups). Dive into an initial creative experience by making UNIT 0 – GETTING STARTED something “surprising” happen to a Scratch character.
     
-    UNIT 1 - EXPLORING
-    Get comfortable with the key computational concept of sequence through a series of activities that provide varying levels of structure – from a step-by-step tutorial, to a creative challenge using a limited number of blocks, to open-ended explorations through making a project about yourself.
+    >###UNIT 1 - EXPLORING
+    >Get comfortable with the key computational concept of sequence through a series of activities that provide varying levels of structure – from a step-by-step tutorial, to a creative challenge using a limited number of blocks, to open-ended explorations through making a project about yourself.
     
-    UNIT 2 - ANIMATIONS
-    Play with visuals and audio in these activities focused on animation, art, and music. Explore Scratch’s focus on media – and the key computational concepts of loops, events, and parallelism – by building your own band, designing animated creatures, and creating a music video for a favorite song.
+    >###UNIT 2 - ANIMATIONS
+    >Play with visuals and audio in these activities focused on animation, art, and music. Explore Scratch’s focus on media – and the key computational concepts of loops, events, and parallelism – by building your own band, designing animated creatures, and creating a music video for a favorite song.
     
-    UNIT 3 - STORIES
-    Create new interactive worlds through collaborative storytelling. Begin by developing characters, learning to code conversations, and then situating those characters and conversations in shifting scenes. Combine characters, conversations, and scenes in a larger story project that is passed along to other creators to further develop – and possibly reimagine entirely!
+    >###UNIT 3 - STORIES
+    >Create new interactive worlds through collaborative storytelling. Begin by developing characters, learning to code conversations, and then situating those characters and conversations in shifting scenes. Combine characters, conversations, and scenes in a larger story project that is passed along to other creators to further develop – and possibly reimagine entirely!
     
-    UNIT 4 - GAMES
-    Connect fundamental game mechanics such as score and levels to key computational concepts, such as variables, operators, and conditionals. Analyze your favorite games, imagine new ones, and practice game design by implementing (and extending) classic games, like Pong.
+    >###UNIT 4 - GAMES
+    >Connect fundamental game mechanics such as score and levels to key computational concepts, such as variables, operators, and conditionals. Analyze your favorite games, imagine new ones, and practice game design by implementing (and extending) classic games, like Pong.
     
-    UNIT 5 – DIVING DEEPER
-    Before the culminating unit, take a moment to revisit work from prior units, further exploring advanced concepts or helping others by designing new activities or debugging challenges.
+    >###UNIT 5 – DIVING DEEPER
+    >Before the culminating unit, take a moment to revisit work from prior units, further exploring advanced concepts or helping others by designing new activities or debugging challenges.
     
-    UNIT 6 - HACKATHON
-    Put all of the computational concepts and practices into action by designing and developing a project of your own through iterative cycles of planning, making, and sharing.
+    >###UNIT 6 - HACKATHON
+    >Put all of the computational concepts and practices into action by designing and developing a project of your own through iterative cycles of planning, making, and sharing.
     
-    *Assessment strategies are described throughout the guide, and several assessment instruments are included in the guide appendix. Our approach to assessment is process-oriented, with a focus on creating opportunities for students to talk about their own (and others’) creations and creative practices. There are many forms of process-oriented data that could be collected and various strategies are suggested throughout the guide, such as:
+    >*Assessment strategies are described throughout the guide, and several assessment instruments are included in the guide appendix. Our approach to assessment is process-oriented, with a focus on creating opportunities for students to talk about their own (and others’) creations and creative practices. There are many forms of process-oriented data that could be collected and various strategies are suggested throughout the guide, such as:
  
-    + supporting conversations with and among students about their projects, recorded through audio, video, or text
-    + examining portfolios of projects
-    + maintaining design journals  
-    We view assessment as something that is done with students, to support their understanding of what they already know and what they still want to learn. Assessment can involve a variety of participants, including the creators, their peers, teachers, parents, and others. 
+    >+ supporting conversations with and among students about their projects, recorded through audio, video, or text
+    >+ examining portfolios of projects
+    >+ maintaining design journals  
+    >We view assessment as something that is done with students, to support their understanding of what they already know and what they still want to learn. Assessment can involve a variety of participants, including the creators, their peers, teachers, parents, and others. 
 
 ##HOW SHOULD I USE THIS GUIDE?
     -USE AS MUCH OR AS LITTLE AS YOU LIKE
