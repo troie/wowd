@@ -4,6 +4,7 @@
 * [第二章](chapter2.md)
 * [第三章](chapter3.md)
 * [Scratch](scratch.md)
+* [Scratch tw](scratch_tw.md)
 
 
 * [第一部](part1/README.md)
