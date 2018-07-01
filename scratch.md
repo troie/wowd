@@ -12,11 +12,11 @@ To help you dive into the world of creative computing as quickly as possible, we
 8. Where did this guide come from?
 
 ##WHAT IS CREATIVE COMPUTING?
-    Creative computing is about creativity. Computer science and computing-related fields have long been introduced to young people in a way that is disconnected from their interests and values – emphasizing technical detail over creative potential. Creative computing supports the development of personal connections to computing, by drawing upon creativity, imagination, and interests.
+    >Creative computing is about creativity. Computer science and computing-related fields have long been introduced to young people in a way that is disconnected from their interests and values – emphasizing technical detail over creative potential. Creative computing supports the development of personal connections to computing, by drawing upon creativity, imagination, and interests.
     
-    Creative computing is about empowerment. Many young people with access to computers participate as consumers, rather than designers or creators. Creative computing emphasizes the knowledge, practices, and fundamental literacies that young people need to create the types of dynamic and interactive computational media that they enjoy in their daily lives.
+    >Creative computing is about empowerment. Many young people with access to computers participate as consumers, rather than designers or creators. Creative computing emphasizes the knowledge, practices, and fundamental literacies that young people need to create the types of dynamic and interactive computational media that they enjoy in their daily lives.
 
-    Creative computing is about computing. Engaging in the creation of computational artifacts prepares young people for more than careers as computer scientists or programmers. It supports young people’s development as computational thinkers – individuals who can draw on computational concepts, practices, and perspectives in all aspects oftheir lives, across disciplines and contexts.
+    >Creative computing is about computing. Engaging in the creation of computational artifacts prepares young people for more than careers as computer scientists or programmers. It supports young people’s development as computational thinkers – individuals who can draw on computational concepts, practices, and perspectives in all aspects oftheir lives, across disciplines and contexts.
 
 
 ##WHAT IS SCRATCH?
