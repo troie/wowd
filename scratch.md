@@ -2,7 +2,7 @@
 Welcome to the Creative Computing Curriculum Guide!
 
 To help you dive into the world of creative computing as quickly as possible, we have assembled answers to eight common questions:
-'''
+
 1. What is Creative Computing?
 2. What is Scratch?
 3. What is this guide?
@@ -11,7 +11,7 @@ To help you dive into the world of creative computing as quickly as possible, we
 6. What is included in this guide?
 7. How should I use this guide?
 8. Where did this guide come from?
-'''
+
 ##WHAT IS CREATIVE COMPUTING?
     >Creative computing is about creativity. Computer science and computing-related fields have long been introduced to young people in a way that is disconnected from their interests and values – emphasizing technical detail over creative potential. Creative computing supports the development of personal connections to computing, by drawing upon creativity, imagination, and interests.
     
@@ -21,22 +21,22 @@ To help you dive into the world of creative computing as quickly as possible, we
 
 
 ##WHAT IS SCRATCH?
-    There are many different tools that can be used for creative computing. In this guide, we use Scratch, which is a free computer programming language available at http://scratch.mit.edu. With Scratch, people can create a wide variety of interactive media projects – animations, stories, games, and more – and share those projects with others in an online community. Since Scratch’s launch in May 2007, hundreds of thousands of people all around the world have created and shared more than 6 million projects.
+    >There are many different tools that can be used for creative computing. In this guide, we use Scratch, which is a free computer programming language available at http://scratch.mit.edu. With Scratch, people can create a wide variety of interactive media projects – animations, stories, games, and more – and share those projects with others in an online community. Since Scratch’s launch in May 2007, hundreds of thousands of people all around the world have created and shared more than 6 million projects.
 
 ##WHAT IS THIS GUIDE?
-    This guide is a collection of ideas, strategies, and activities for an introductory creative computing experience using the Scratch programming language. The activities are designed to support familiarity and increasing fluency with computational creativity and computational thinking. In particular, the activities encourage exploration of key computational thinking concepts (sequence, loops, parallelism, events, conditionals, operators, data) and key computational thinking practices (experimenting and iterating, testing and debugging, reusing and remixing, abstracting and modularizing). Learn more about computational thinking – what it is and how to assess its development in learners – from resources in the appendix or by visiting <http://scratched.gse.harvard.edu/ct> Inspired by constructionist approaches to learning, the activities in this guide emphasize the following principles:
+    >This guide is a collection of ideas, strategies, and activities for an introductory creative computing experience using the Scratch programming language. The activities are designed to support familiarity and increasing fluency with computational creativity and computational thinking. In particular, the activities encourage exploration of key computational thinking concepts (sequence, loops, parallelism, events, conditionals, operators, data) and key computational thinking practices (experimenting and iterating, testing and debugging, reusing and remixing, abstracting and modularizing). Learn more about computational thinking – what it is and how to assess its development in learners – from resources in the appendix or by visiting <http://scratched.gse.harvard.edu/ct> Inspired by constructionist approaches to learning, the activities in this guide emphasize the following principles:
 
-    PRINCIPLE #1:CREATING
-    Offer opportunities for learners to engage in designing and making, not just listening, observing, and using.
+    >###PRINCIPLE #1:CREATING
+    >Offer opportunities for learners to engage in designing and making, not just listening, observing, and using.
 
-    PRINCIPLE #2:PERSONALIZING
-    Offer opportunities for learners to engage in activities that are personally meaningful and relevant.
+    >###PRINCIPLE #2:PERSONALIZING
+    >Offer opportunities for learners to engage in activities that are personally meaningful and relevant.
 
-    PRINCIPLE #3: SHARING
-    Offer opportunities for learners to engage in interactions with others as audience, coaches, and cocreators.
+    >###PRINCIPLE #3: SHARING
+    >Offer opportunities for learners to engage in interactions with others as audience, coaches, and cocreators.
 
-    PRINCIPLE #4: REFLECTING
-    Offer opportunities for learners to review and rethink their creative practices.
+    >###PRINCIPLE #4: REFLECTING
+    >Offer opportunities for learners to review and rethink their creative practices.
 
 ##WHO IS THIS GUIDE FOR?
     No matter your current context or prior experience, this guide was designed with a wide range of learners and educators in mind. Here are a few examples of who might use the guide and how they might use it:
