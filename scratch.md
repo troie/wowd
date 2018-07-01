@@ -2,6 +2,7 @@
 Welcome to the Creative Computing Curriculum Guide!
 
 To help you dive into the world of creative computing as quickly as possible, we have assembled answers to eight common questions:
+'''
 1. What is Creative Computing?
 2. What is Scratch?
 3. What is this guide?
@@ -10,7 +11,7 @@ To help you dive into the world of creative computing as quickly as possible, we
 6. What is included in this guide?
 7. How should I use this guide?
 8. Where did this guide come from?
-
+'''
 ##WHAT IS CREATIVE COMPUTING?
     >Creative computing is about creativity. Computer science and computing-related fields have long been introduced to young people in a way that is disconnected from their interests and values – emphasizing technical detail over creative potential. Creative computing supports the development of personal connections to computing, by drawing upon creativity, imagination, and interests.
     
