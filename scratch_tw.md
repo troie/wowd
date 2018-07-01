@@ -37,7 +37,7 @@ There are many different tools that can be used for creative computing. In this 
 
 This guide is a collection of ideas, strategies, and activities for an introductory creative computing experience using the Scratch programming language. The activities are designed to support familiarity and increasing fluency with computational creativity and computational thinking. In particular, the activities encourage exploration of key computational thinking concepts (sequence, loops, parallelism, events, conditionals, operators, data) and key computational thinking practices (experimenting and iterating, testing and debugging, reusing and remixing, abstracting and modularizing). Learn more about computational thinking – what it is and how to assess its development in learners – from resources in the appendix or by visiting <http://scratched.gse.harvard.edu/ct> Inspired by constructionist approaches to learning, the activities in this guide emphasize the following principles:
 
-本指南匯集了有關使用Scratch編程語言進行初步創意計算體驗的想法，策略和活動。這些活動旨在通過計算創造力和計算思維來支持熟悉度和提高流暢度。特別是，這些活動鼓勵探索關鍵計算思維概念（順序，循環，並行，事件，條件，操作符，數據）和關鍵計算思維實踐（實驗和迭代，測試和調試，重用和混合，抽象和模塊化）。通過附錄中的資源或訪問http://scratched.gse.harvard.edu/ct了解更多關於計算思維 - 它是什麼以及如何評估其在學習者中的發展情況？通過建構主義學習方法的啟發，指南強調以下原則：
+本指南匯集了有關使用Scratch編程語言進行初步創意計算體驗的想法，策略和活動。這些活動旨在通過計算創造力和計算思維來支持熟悉度和提高流暢度。特別是，這些活動鼓勵探索關鍵計算思維概念（順序，循環，並行，事件，條件，操作符，數據）和關鍵計算思維實踐（實驗和迭代，測試和調試，重用和混合，抽象和模塊化）。通過附錄中的資源或訪問 http://scratched.gse.harvard.edu/ct 了解更多關於計算思維 - 它是什麼以及如何評估其在學習者中的發展情況？通過建構主義學習方法的啟發，指南強調以下原則：
 
 ### PRINCIPLE #1:CREATING
 
@@ -178,7 +178,7 @@ Put all of the computational concepts and practices into action by designing and
 
 We encourage you to use as much or as little of the guide as you like, to design new activities, and to remix the included activities. No matter your prior experience or expertise, we think of every educator as a co-designer of the Creative Computing experience. We would love to learn about what you’re doing, so we encourage you to document and share your experiences with us and with other educators via the ScratchEd community at http://scratched.gse.harvard.edu
 
-我們鼓勵您根據需要使用盡可能多的指南，設計新活動，並重新混合所包含的活動。無論您以前的經驗或專業知識如何，我們都會將每位教育工作者視為創意計算體驗的共同設計者。我們希望了解您正在做的事情，因此我們鼓勵您通過ScratchEd社區記錄和分享您與我們以及其他教育工作者的經驗，網址為http://scratched.gse.harvard.edu    
+我們鼓勵您根據需要使用盡可能多的指南，設計新活動，並重新混合所包含的活動。無論您以前的經驗或專業知識如何，我們都會將每位教育工作者視為創意計算體驗的共同設計者。我們希望了解您正在做的事情，因此我們鼓勵您通過ScratchEd社區記錄和分享您與我們以及其他教育工作者的經驗，網址為 http://scratched.gse.harvard.edu    
 *We are releasing this guide under a Creative Commons Attribution-ShareAlike license, which means that you are completely free to use, change, and share this work, as long as you provide appropriate attribution and give others access to any derivative works. 
 
 *我們將根據知識共享署名 - 相同方式授權發布本指南，這意味著只要您提供適當的歸屬並讓其他人訪問任何衍生作品，您就可以完全自由地使用，更改和共享此作品。
