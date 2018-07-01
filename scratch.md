@@ -102,7 +102,7 @@ To help you dive into the world of creative computing as quickly as possible, we
     
     >We encourage you to use as much or as little of the guide as you like, to design new activities, and to remix the included activities. No matter your prior experience or expertise, we think of every educator as a co-designer of the Creative Computing experience. We would love to learn about what you’re doing, so we encourage you to document and share your experiences with us and with other educators via the ScratchEd community at http://scratched.gse.harvard.edu
     
-    >>We are releasing this guide under a Creative Commons Attribution-ShareAlike license, which means that you are completely free to use, change, and share this work, as long as you provide appropriate attribution and give others access to any derivative works. 
+    **We are releasing this guide under a Creative Commons Attribution-ShareAlike license, which means that you are completely free to use, change, and share this work, as long as you provide appropriate attribution and give others access to any derivative works. **
     
 ##WHERE DID THIS GUIDE COME FROM?
     This guide was developed by members of the ScratchEd research team at the Harvard Graduate School of Education – Christan Balch, Michelle Chung, and Karen Brennan. Jeff Hawson provided editing support and inexhaustible enthusiasm.
