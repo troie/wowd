@@ -19,6 +19,7 @@
   * [全部整理成一份文件](zheng-li-ji-shou-ji-ke-hu-xiang-fa/quan-bu-zheng-li-cheng-yi-fen-wen-jian.md)
 * [sketching, wireframing, prototyping 傻傻分不清楚](sketching-wireframing-prototyping-sha-sha-fen-bu-qing-chu/README.md)
   * [sketch](sketching-wireframing-prototyping-sha-sha-fen-bu-qing-chu/sketch.md)
+  * [mockup](mockup.md)
   * [wireframe](sketching-wireframing-prototyping-sha-sha-fen-bu-qing-chu/wireframe.md)
   * [prototype](sketching-wireframing-prototyping-sha-sha-fen-bu-qing-chu/prototype.md)
 * [Tools \(待確認\)](tools-dai-que-ren/README.md)
